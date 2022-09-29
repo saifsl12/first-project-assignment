@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+header {
+    background-color: #7f56f5;
+    padding: 20px 0px;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    max-width: 100%;
+
+}
+
+.logo {
+    width: 20%;
+    float: left;
+
+}
+
+nav {
+    width: 80%;
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline;
+    padding: 20px 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.banner {
+    padding: 150px 0;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 50px;
+    color: white;
+
+}
+
+.banner p {
+    font-size: 25px;
+    color: #ffffff78;
+}
+
+/* main section/feature section */
+
+.blog-section {
+    padding: 50px 0px 30px 0px;
+}
+
+.column {
+    width: 50%;
+    float: left;
+}
+
+.blog {
+    padding: 40px;
+}
+
+.blog img {}
+
+.blog h2 {
+    font-size: 30px;
+}
+
+.blog p {
+    /* font-size: 17px; */
+}
+
+.blog-p {
+    margin-top: 20px;
+}
+
+.blog a {
+    border-radius: 4px;
+    color: white;
+    background-color: #7f56f5;
+    font-size: 20px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    margin-top: 15px;
+    display: inline-block;
+
+}
+
+/* footer */
+
+footer {
+
+    /* padding: 80px 0 0 0; */
+}
+
+.footer-section {
+    float: left;
+    display: flex;
+    background-color: #a694de21;
+    padding: 50px;
+
+}
+
+.col {
+    width: 25%;
+    float: left;
+    /* margin: 0; */
+}
+
+.footer-item {
+    padding: 0 40px 0;
+    width: 200px;
+}
+
+.footer-item ul {
+    font-size: 20px;
+    font-weight: 300;
+    /* margin-bottom: 31px; */
+    /* display: inline-block; */
+}
+
+.footer-item ul li {
+    list-style: none;
+    font-size: 17px;
+    font-weight: normal;
+    /* color: black; */
+}
+
+.footer-item ul li a {
+    text-decoration: none;
+    padding: 15px 0;
+    display: inline-block;
+    color: #444444;
+}
+
+.footer-list {
+    padding: 0px 0px 0px 0px;
+
+}
+
+.paragraph {
+    /* font-size: 30px; */
+    /* width: 40%; */
+}
